@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>NBA Teams</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Team</th>
+                <th scope="col">Division</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for elements in teams %}
+            <tr>
+                <td scope="row"> {{ elements.id }} </td>
+                <td scope="row"> {{ elements.team }} </td>
+                <td scope="row"> {{ elements.division }} </td>
+            </tr>
+            {% endfor %}
+        </tbody>    
+    </table>
+</body>
+</html>

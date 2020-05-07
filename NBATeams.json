@@ -1,0 +1,182 @@
+{"Teams":[
+    {
+        "id": 0,
+        "team": "Celtics",
+        "city": "Boston",
+        "division": "Atlantic"
+    },
+    {
+        "id": 1,
+        "team": "Nets",
+        "city": "Brooklyn",
+        "division": "Atlantic"
+    },
+    {
+        "id": 2,
+        "team": "Knicks",
+        "city": "New York",
+        "division": "Atlantic"
+    },
+    {
+        "id": 3,
+        "team": "76ers",
+        "city": "Philadelphia",
+        "division": "Atlantic"
+    },
+    {
+        "id": 4,
+        "team": "Raptors",
+        "city": "Toronto",
+        "division": "Atlantic"
+    },
+    {
+        "id": 5,
+        "team": "Bulls",
+        "city": "Chicago",
+        "division": "Central"
+    },
+    {
+        "id": 6,
+        "team": "Cavaliers",
+        "city": "Cleveland",
+        "division": "Central"
+    },
+    {
+        "id": 7,
+        "team": "Pistons",
+        "city": "Detroit",
+        "division": "Central"
+    },
+    {
+        "id": 8,
+        "team": "Pacers",
+        "city": "Indiana",
+        "division": "Central"
+    },
+    {
+        "id": 9,
+        "team": "Bucks",
+        "city": "Milwaukee",
+        "division": "Central"
+    },
+    {
+        "id": 10,
+        "team": "Hawks",
+        "city": "Atlanta",
+        "division": "Southeast"
+    },
+    {
+        "id": 11,
+        "team": "Hornets",
+        "city": "Charlotte",
+        "division": "Southeast"
+    },
+    {
+        "id": 12,
+        "team": "Heat",
+        "city": "Miami",
+        "division": "Southeast"
+    },
+    {
+        "id": 13,
+        "team": "Magic",
+        "city": "Orlando",
+        "division": "Southeast"
+    },
+    {
+        "id": 14,
+        "team": "Wizards",
+        "city": "Washington",
+        "division": "Southeast"
+    },
+    {
+        "id": 15,
+        "team": "Warriors",
+        "city": "San Francisco",
+        "division": "Pacific"
+    },
+    {
+        "id": 16,
+        "team": "Clippers",
+        "city": "Los Angeles",
+        "division": "Pacific"
+    },
+    {
+        "id": 17,
+        "team": "Lakers",
+        "city": "Los Angeles",
+        "division": "Pacific"
+    },
+    {
+        "id": 18,
+        "team": "Suns",
+        "city": "Phoenix",
+        "division": "Pacific"
+    },
+    {
+        "id": 19,
+        "team": "Kings",
+        "city": "Sacramento",
+        "division": "Pacific"
+    },
+    {
+        "id": 20,
+        "team": "Mavericks",
+        "city": "Dallas",
+        "division": "Southwest"
+    },
+    {
+        "id": 21,
+        "team": "Rockets",
+        "city": "Houston",
+        "division": "Southwest"
+    },
+    {
+        "id": 22,
+        "team": "Grizzlies",
+        "city": "Memphis",
+        "division": "Southwest"
+    },
+    {
+        "id": 23,
+        "team": "Pelicans",
+        "city": "New Orleans",
+        "division": "Southwest"
+    },
+    {
+        "id": 24,
+        "team": "Spurs",
+        "city": "San Antonio",
+        "division": "Southwest"
+    },
+    {
+        "id": 25,
+        "team": "Nuggets",
+        "city": "Denver",
+        "division": "Northwest"
+    },
+    {
+        "id": 26,
+        "team": "Timberwolves",
+        "city": "Minnesota",
+        "division": "Northwest"
+    },
+    {
+        "id": 27,
+        "team": "Thunder",
+        "city": "Oklahoma City",
+        "division": "Northwest"
+    },
+    {
+        "id": 28,
+        "team": "Trail Blazers",
+        "city": "Portland",
+        "division": "Northwest"
+    },
+    {
+        "id": 29,
+        "team": "Jazz",
+        "city": "Utah",
+        "division": "Northwest"
+    }
+]}
