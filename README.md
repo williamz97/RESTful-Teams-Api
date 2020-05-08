@@ -9,7 +9,7 @@ This application is a RESTful API in a docker container that returns the names o
 `docker pull docker pull wz16874n/firstimage:latest`
 
 3. To run the docker container enter the following command: <br/>
-`docker run -d -p 5000:5000 assignment5cs612`
+`docker run -d -p 5000:5000 wz16874n/firstimage:latest`
 
 4. Open a browser and enter `http://localhost:5000/` or `http://localhost:5000/allteams` to view all teams. 
 
