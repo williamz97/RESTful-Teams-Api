@@ -17,9 +17,9 @@ This application is a RESTful API in a docker container that returns the names o
 Id numbers range from 0-29 ex. `http://localhost:5000/allteams/15`
 
 6. To view a team by their division enter `http://localhost:5000/allteams/ + division` <br/>
-Divisions include **Atlantic**, **Central**, **Southeast**, **Pacific**, **Southwest**, and **Nothwest** <br/>
+Divisions include **Atlantic**, **Central**, **Southeast**, **Pacific**, **Southwest**, and **Northwest** <br/>
 ex. `http://localhost:5000/allteams/Atlantic`
 Note: First letter must be uppercase
 
-7. To view a team by their division and id enter `http://localhost:5000/allteams/ + division /+ id`
+7. To view a team by their division and id enter `http://localhost:5000/allteams/ + division /+ id` <br/>
 ex. `http://localhost:5000/allteams/Atlantic/2`
