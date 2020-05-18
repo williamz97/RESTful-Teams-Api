@@ -13,7 +13,7 @@ This application is a RESTful API in a docker container that returns the names o
 
 4. Open a browser and enter `http://localhost:5000/` or `http://localhost:5000/allteams` to view all teams. 
 
-5. To view a team by id enter `http://localhost:5000/allteams + id` <br/>
+5. To view a team by id enter `http://localhost:5000/allteams/ + id` <br/>
 Id numbers range from 0-29
 
 6. To view a team by their division enter `http://localhost:5000/allteams/ + division` <br/>
